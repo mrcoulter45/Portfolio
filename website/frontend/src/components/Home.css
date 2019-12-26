@@ -1,4 +1,8 @@
-.profile-picture {
-    width: 400px;
-    height: 600px;
+.home {
+  background-color: #000000;
+}
+
+.container-fluid {
+  padding-right: 0px;
+  padding-left: 0px;
 }
