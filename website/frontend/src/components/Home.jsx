@@ -30,8 +30,11 @@ function Home() {
           />
         </Col>
         <Col style={{ textAlign: 'center', marginTop: 'auto', marginBottom: 'auto', color: '#ffffff' }}>
+          <h3>
+            Hello!
+          </h3>
           <span>
-            Hello! My name is Michael Coulter.
+            My name is Michael Coulter, and I am a computer engineer interested in all things IoT.
           </span>
         </Col>
       </Row>
